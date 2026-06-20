@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Completado-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Total_Entregables-50+-blue?style=for-the-badge" alt="Count">
-  <img src="https://img.sql.shields.io/badge/Stack-Python_SQL_Excel_Cloud-red?style=for-the-badge" alt="Stack">
 </div>
 
 ---
@@ -35,4 +34,4 @@ El proyecto más representativo de mi formación es el **Entregable Final (M41)*
 👉 [Ver Entregable Final (PDF)](archivos/Entregable_Final_M41_Patrick.pdf)
 
 ## 👤 Autor
-**Patrick Salvador Hernández Arias** *Analista de Datos en formación*
+**Patrick Salvador Hernández Arias**
